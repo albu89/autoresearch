@@ -27,7 +27,7 @@ DEVICE = "mps" if torch.backends.mps.is_available() else ("cuda" if torch.cuda.i
 
 # Architecture
 HIDDEN = [256, 128, 64]
-DROPOUT = 0.3
+DROPOUT = 0.2
 
 # Training
 EPOCHS = 500
@@ -89,7 +89,7 @@ def main() -> None:
     print(f"device: {DEVICE}")
     print("loading data...")
 
-    data = load_tabular_data(DATA_PATH, log1p=LOG1P_TRANSFORM)
+    data = load_tabular_data(DATA_PATH, train_frac=0.8, seed=SEED, log1p=LOG1P_TRANSFORM)
     x_train = data.x_train.to(device)
     x_val = data.x_val.to(device)
     y_train = data.y_train.to(device).unsqueeze(1)
