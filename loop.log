@@ -1,0 +1,2117 @@
+Best so far: loss=0.402007 auc=0.897538
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eff60e1] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1e-3 -> loss=0.431400 auc=0.882505 status=discard (      18 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f7a3706] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1.2e-3 -> loss=0.416295 auc=0.892894 status=discard (      19 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cd19139] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1.5e-3 -> loss=0.409834 auc=0.896857 status=discard (      20 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cbe852b] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at cbe852b lr 1.8e-3
+Experiment: lr 1.8e-3 -> loss=0.406316 auc=0.898030 status=discard (      21 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 28d81df] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Experiment: lr 2e-3 -> loss=0.403783 auc=0.898780 status=keep (      23 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 64ccd20] lr 2.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 2.2e-3 -> loss=0.402092 auc=0.898523 status=discard (      24 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 2.5e-3 -> loss=0.405301 auc=0.896599 status=discard (      25 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 859ca26] lr 2.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 2.8e-3 -> loss=0.403093 auc=0.897467 status=discard (      26 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d2c9f82] lr 3e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 3e-3 -> loss=0.402410 auc=0.897373 status=discard (      27 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a50ee0e] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 3.5e-3 -> loss=0.402563 auc=0.897233 status=discard (      28 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cb0c46a] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 1e-4 -> loss=0.404348 auc=0.897022 status=discard (      29 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 07b87e9] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 1.5e-4 -> loss=0.404348 auc=0.897022 status=discard (      30 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main af9a36e] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 597db4b depth 5
+Experiment: wd 2e-4 -> loss=0.404349 auc=0.897022 status=discard (      32 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at cde210f hidden_dim 448
+Experiment: wd 2.5e-4 -> loss=0.408757 auc=0.894348 status=discard (      33 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1f0528a] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 3e-4 -> loss=0.411547 auc=0.893175 status=discard (      34 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bb65521] wd 4e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at bb65521 wd 4e-4
+Experiment: wd 4e-4 -> loss=0.404348 auc=0.897022 status=discard (      35 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f93f8a6] wd 5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at bb65521 wd 4e-4
+Experiment: wd 5e-4 -> loss=0.404348 auc=0.897022 status=discard (      36 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 35505ac] hidden_dim 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 128 -> loss=0.428014 auc=0.887148 status=discard (      38 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d6b59c4] hidden_dim 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 192 -> loss=0.420578 auc=0.889916 status=discard (      39 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 70eda5a] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 256 -> loss=0.410347 auc=0.896506 status=discard (      40 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 601c576] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 288 -> loss=0.412095 auc=0.896013 status=discard (      41 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2ece156] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 320 -> loss=0.415468 auc=0.891463 status=discard (      43 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 528ee35] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 528ee35 hidden_dim 352
+Experiment: hidden_dim 352 -> loss=0.407218 auc=0.895591 status=discard (      44 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7294c98] hidden_dim 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 384 -> loss=0.409495 auc=0.896693 status=discard (      45 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 448 -> loss=0.404349 auc=0.897022 status=discard (      46 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b871c69] hidden_dim 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 512 -> loss=0.410765 auc=0.897233 status=discard (      48 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d44656a] depth 2
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: depth 2 -> loss=0.430329 auc=0.883138 status=discard (      49 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5c0d073] depth 3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: depth 3 -> loss=0.418890 auc=0.889798 status=discard (      50 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6a37eb5] depth 4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Best so far: loss=0.402007 auc=0.89878
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eb35a84] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1e-3 -> loss=0.421232 auc=0.890056 status=discard (      52 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main dd5b44b] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at dd5b44b lr 1.2e-3
+Experiment: lr 1.2e-3 -> loss=0.416295 auc=0.892894 status=discard (      53 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 54b1cd3] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1.5e-3 -> loss=0.409834 auc=0.896857 status=discard (      55 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cf5dba0] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 1.8e-3 -> loss=0.406316 auc=0.898030 status=discard (      56 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main faf2710] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 2e-3 -> loss=0.403783 auc=0.898780 status=discard (      58 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5a50584] lr 2.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: lr 2.2e-3 -> loss=0.402092 auc=0.898523 status=discard (      59 lines)
+Skip no-op: lr 2.5e-3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 012c755] lr 2.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Experiment: lr 2.8e-3 -> loss=0.400686 auc=0.898804 status=keep (      60 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9775c2e] lr 3e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: lr 3e-3 -> loss=0.401491 auc=0.898616 status=discard (      62 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a376e1f] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at a376e1f lr 3.5e-3
+Experiment: lr 3.5e-3 -> loss=0.402563 auc=0.897233 status=discard (      63 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3b76929] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 1e-4 -> loss=0.402563 auc=0.897233 status=discard (      65 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d5749b8] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: wd 1.5e-4 -> loss=0.404348 auc=0.897022 status=discard (      66 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 703050a] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 703050a wd 2e-4
+Experiment: wd 2e-4 -> loss=0.402007 auc=0.897538 status=discard (      68 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c66196e] wd 2.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: wd 2.5e-4 -> loss=0.402007 auc=0.897538 status=discard (      70 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d9366bd] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 3e-4 -> loss=0.402007 auc=0.897538 status=discard (      71 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0fc8d31] wd 4e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 4e-4 -> loss=0.404348 auc=0.897022 status=discard (      72 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e21903f] wd 5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: wd 5e-4 -> loss=0.404348 auc=0.897022 status=discard (      73 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d6ef25e] hidden_dim 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 128 -> loss=0.428014 auc=0.887148 status=discard (      74 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9b6db60] hidden_dim 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: hidden_dim 192 -> loss=0.420578 auc=0.889916 status=discard (      75 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b4d226a] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 256 -> loss=0.417098 auc=0.891417 status=discard (      76 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ff9f221] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Experiment: hidden_dim 288 -> loss=0.409482 auc=0.899437 status=keep (      78 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0a81498] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 320 -> loss=0.413735 auc=0.892495 status=discard (      80 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 96ab496] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 352 -> loss=0.407328 auc=0.897256 status=discard (      82 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 571ddb4] hidden_dim 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 384 -> loss=0.404996 auc=0.899461 status=discard (      84 lines)
+Skip no-op: hidden_dim 448
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ec6f726] hidden_dim 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: hidden_dim 512 -> loss=0.407481 auc=0.896201 status=discard (      86 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 96baff3] depth 2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: depth 2 -> loss=0.429460 auc=0.883279 status=discard (      88 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3bdbdc7] depth 3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: depth 3 -> loss=0.418890 auc=0.889798 status=discard (      90 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 81bf759] depth 4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at 77ea8ae depth 6
+Experiment: depth 4 -> loss=0.411547 auc=0.893175 status=discard (      91 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c943bf4] depth 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: depth 5 -> loss=0.408757 auc=0.894348 status=discard (      92 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 228b6af] depth 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: depth 6 -> loss=0.404349 auc=0.897022 status=discard (      93 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fe84db7] dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: dropout 0.05 -> loss=0.407768 auc=0.895403 status=discard (      95 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fe52991] dropout 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Experiment: dropout 0.1 -> loss=0.398122 auc=0.900023 status=keep (      96 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ad995de] dropout 0.12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at fe52991 dropout 0.1
+Experiment: dropout 0.12 -> loss=0.400012 auc=0.899038 status=discard (      97 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 20f2f42] dropout 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: dropout 0.15 -> loss=0.402007 auc=0.897538 status=discard (      98 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b9f943e] dropout 0.18
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: dropout 0.18 -> loss=0.405337 auc=0.897139 status=discard (     100 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2d222d0] dropout 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: dropout 0.2 -> loss=0.399816 auc=0.898734 status=discard (     102 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1a1629f] dropout 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: dropout 0.25 -> loss=0.405419 auc=0.897045 status=discard (     104 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2cc2340] input_noise 0.005
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: input_noise 0.005 -> loss=0.407241 auc=0.896248 status=discard (     106 lines)
+Skip no-op: input_noise 0.01
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 51b10fd] input_noise 0.015
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: input_noise 0.015 -> loss=0.406567 auc=0.896904 status=discard (     108 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 61ba0fe] input_noise 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: input_noise 0.02 -> loss=0.406351 auc=0.897139 status=discard (     110 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3320016] input_noise 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: input_noise 0.03 -> loss=0.408232 auc=0.895286 status=discard (     112 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cf94744] feature_dropout 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: feature_dropout 0.01 -> loss=0.404291 auc=0.897913 status=discard (     114 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 484f39b] feature_dropout 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: feature_dropout 0.02 -> loss=0.408332 auc=0.895755 status=discard (     116 lines)
+Skip no-op: feature_dropout 0.03
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6dee641] feature_dropout 0.04
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: feature_dropout 0.04 -> loss=0.404316 auc=0.898616 status=discard (     118 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main dfdfe0a] feature_dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: feature_dropout 0.05 -> loss=0.408938 auc=0.895614 status=discard (     120 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 99af80a] feature_dropout 0.06
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: feature_dropout 0.06 -> loss=0.405884 auc=0.897749 status=discard (     122 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main dda2256] mixup_alpha 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: mixup_alpha 0.05 -> loss=0.404186 auc=0.896951 status=discard (     124 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e702f7b] mixup_alpha 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: mixup_alpha 0.1 -> loss=0.409833 auc=0.894160 status=discard (     126 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ee104ba] mixup_alpha 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: mixup_alpha 0.15 -> loss=0.406748 auc=0.895802 status=discard (     128 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ce9d49a] mixup_alpha 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: mixup_alpha 0.2 -> loss=0.407481 auc=0.896201 status=discard (     130 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b39d657] mixup_alpha 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: mixup_alpha 0.25 -> loss=0.407779 auc=0.895239 status=discard (     132 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b717eac] mixup_alpha 0.3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d99da35 depth 7
+Experiment: mixup_alpha 0.3 -> loss=0.407350 auc=0.896787 status=discard (     134 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at ec6f726e0abc555dfa6364309c3a5e9030a751cb but expected d99da35bd83bda69b7ed93d7077c5c3814f5ceba
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: batch_size 128 -> loss=0.407481 auc=0.896201 status=discard (     135 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 29ca20f] batch_size 192
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: batch_size 192 -> loss=0.407481 auc=0.896201 status=discard (     137 lines)
+Skip no-op: batch_size 256
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 48d43e3] batch_size 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: batch_size 384 -> loss=0.410399 auc=0.893363 status=discard (     138 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3f34374] batch_size 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: batch_size 512 -> loss=0.400768 auc=0.898452 status=discard (     139 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3e9ffb7] epochs 150
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at ec6f726 hidden_dim 512
+Experiment: epochs 150 -> loss=0.407483 auc=0.896201 status=discard (     140 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 490a12d] epochs 180
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: epochs 180 -> loss=0.407481 auc=0.896201 status=discard (     141 lines)
+Skip no-op: epochs 200
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c8cef0d] epochs 220
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 220 -> loss=0.407779 auc=0.895239 status=discard (     143 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e433df0] epochs 250
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 250 -> loss=0.407779 auc=0.895239 status=discard (     145 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3ef7e38] patience 20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 20 -> loss=0.407779 auc=0.895239 status=discard (     147 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8dbdc83] patience 25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 25 -> loss=0.407779 auc=0.895239 status=discard (     149 lines)
+Skip no-op: patience 30
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8d4efba] patience 35
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 35 -> loss=0.407779 auc=0.895239 status=discard (     151 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4b219a6] patience 40
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: patience 40 -> loss=0.407779 auc=0.895239 status=discard (     153 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6aed9e9] label_smoothing 0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: label_smoothing 0 -> loss=0.406723 auc=0.896154 status=discard (     154 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1096897] label_smoothing 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.01 -> loss=0.407298 auc=0.895333 status=discard (     155 lines)
+Skip no-op: label_smoothing 0.02
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 74b16c9] label_smoothing 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.03 -> loss=0.407359 auc=0.895919 status=discard (     156 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e6b032d] label_smoothing 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: label_smoothing 0.05 -> loss=0.409624 auc=0.894864 status=discard (     158 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a2d9009] warmup 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 5 -> loss=0.406694 auc=0.896107 status=discard (     159 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 203d6a9] warmup 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 6 -> loss=0.408725 auc=0.895356 status=discard (     161 lines)
+Skip no-op: warmup 8
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3c337ea] warmup 10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 10 -> loss=0.408734 auc=0.894676 status=discard (     163 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ca8e19b] warmup 12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 12 -> loss=0.409633 auc=0.894583 status=discard (     165 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 55b1022] eta_min 1e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-6 -> loss=0.407779 auc=0.895239 status=discard (     167 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6837b68] eta_min 5e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-6 -> loss=0.407779 auc=0.895239 status=discard (     169 lines)
+Skip no-op: eta_min 1e-5
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4f9ae3a] eta_min 5e-5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-5 -> loss=0.407779 auc=0.895239 status=discard (     171 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6a180a7] eta_min 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: eta_min 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     173 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 77cb935] ema_decay 0.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: ema_decay 0.99 -> loss=0.405855 auc=0.897162 status=discard (     174 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4f1ef63] ema_decay 0.992
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.992 -> loss=0.407161 auc=0.896060 status=discard (     175 lines)
+Skip no-op: ema_decay 0.995
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ba1f58a] ema_decay 0.998
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.998 -> loss=0.410684 auc=0.893879 status=discard (     176 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1c193e6] ema_decay 0.999
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.999 -> loss=0.410485 auc=0.895333 status=discard (     178 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5840fd8] grad_clip 0.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 0.5 -> loss=0.406286 auc=0.896365 status=discard (     180 lines)
+Skip no-op: grad_clip 1.0
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2ec9bfc] grad_clip 1.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 1.5 -> loss=0.409104 auc=0.895310 status=discard (     182 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3e8c831] grad_clip 2.0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 2.0 -> loss=0.408133 auc=0.896388 status=discard (     184 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4b4ee2e] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1e-3 -> loss=0.421778 auc=0.889728 status=discard (     186 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2b6b87d] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.2e-3 -> loss=0.416186 auc=0.894911 status=discard (     188 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bfe6318] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.5e-3 -> loss=0.407463 auc=0.895591 status=discard (     190 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5796655] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.8e-3 -> loss=0.410689 auc=0.895169 status=discard (     192 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 153da7d] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2e-3 -> loss=0.407831 auc=0.895169 status=discard (     194 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 886b591] lr 2.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.2e-3 -> loss=0.411315 auc=0.897115 status=discard (     196 lines)
+Skip no-op: lr 2.5e-3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.8e-3 -> loss=0.407174 auc=0.894794 status=discard (     198 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   train.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3e-3 -> loss=0.406447 auc=0.896295 status=discard (     200 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6966085] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3.5e-3 -> loss=0.406014 auc=0.896951 status=discard (     202 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e210b54] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     204 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 71c0485] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1.5e-4 -> loss=0.407778 auc=0.895239 status=discard (     206 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2cfd713] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 2e-4 -> loss=0.407779 auc=0.895239 status=discard (     208 lines)
+Skip no-op: wd 2.5e-4
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 317a4bf] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 3e-4 -> loss=0.407780 auc=0.895216 status=discard (     210 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8547bc0] wd 4e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 4e-4 -> loss=0.407780 auc=0.895216 status=discard (     212 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c1b200e] wd 5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 5e-4 -> loss=0.407780 auc=0.895216 status=discard (     214 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4d5a953] hidden_dim 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 128 -> loss=0.415912 auc=0.893316 status=discard (     216 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d487a51] hidden_dim 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 192 -> loss=0.421358 auc=0.890643 status=discard (     218 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f32a98f] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 256 -> loss=0.413269 auc=0.893902 status=discard (     220 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6dd476a] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 288 -> loss=0.410804 auc=0.895708 status=discard (     222 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 28ca645] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 320 -> loss=0.411784 auc=0.893269 status=discard (     224 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6ac5275] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 352 -> loss=0.405097 auc=0.900023 status=discard (     226 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2f7a343] hidden_dim 384
+HEAD is now at 2f7a343 hidden_dim 384
+Experiment: hidden_dim 384 -> loss=0.407779 auc=0.895239 status=discard (     228 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at c8cef0d2008b4bae02b18b26aac61af994f3a167 but expected 2f7a343c6e55f92709abe1b9c0417a49be792fb6
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 448 -> loss=0.407831 auc=0.895169 status=discard (     230 lines)
+Skip no-op: hidden_dim 512
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 2 -> loss=0.407359 auc=0.895755 status=discard (     232 lines)
+fatal: Unable to create '/Users/alexanderbusser/repository/autoresearch/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 3 -> loss=0.408277 auc=0.894958 status=discard (     234 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a01153c] depth 4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 4 -> loss=0.407174 auc=0.894794 status=discard (     236 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5268f97] depth 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 5 -> loss=0.407809 auc=0.895427 status=discard (     238 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 78e411d] depth 6
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 6 -> loss=0.406014 auc=0.896951 status=discard (     240 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 79e6a50] dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.05 -> loss=0.407277 auc=0.895919 status=discard (     242 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1b4e7af] dropout 0.1
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.1 -> loss=0.415044 auc=0.891440 status=discard (     244 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 483f34a] dropout 0.12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.12 -> loss=0.410485 auc=0.895333 status=discard (     246 lines)
+Skip no-op: dropout 0.15
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0c9a47f] dropout 0.18
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.18 -> loss=0.408543 auc=0.895544 status=discard (     248 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cdfa46c] dropout 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.2 -> loss=0.402279 auc=0.898077 status=discard (     250 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a3f426f] dropout 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.25 -> loss=0.404382 auc=0.896599 status=discard (     252 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f7abb23] input_noise 0.005
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.005 -> loss=0.407278 auc=0.895732 status=discard (     254 lines)
+Skip no-op: input_noise 0.01
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 86153c5] input_noise 0.015
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.015 -> loss=0.407967 auc=0.895380 status=discard (     256 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9756fd3] input_noise 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.02 -> loss=0.407774 auc=0.895239 status=discard (     258 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0607f1d] input_noise 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.03 -> loss=0.408038 auc=0.895990 status=discard (     260 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e08e516] feature_dropout 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: feature_dropout 0.01 -> loss=0.405320 auc=0.896717 status=discard (     262 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 414c98b] feature_dropout 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: feature_dropout 0.02 -> loss=0.408798 auc=0.894512 status=discard (     263 lines)
+Skip no-op: feature_dropout 0.03
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eec2428] feature_dropout 0.04
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: feature_dropout 0.04 -> loss=0.410749 auc=0.894841 status=discard (     264 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 429c573] feature_dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: feature_dropout 0.05 -> loss=0.410560 auc=0.895216 status=discard (     265 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 12a590a] feature_dropout 0.06
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.06 -> loss=0.409433 auc=0.895966 status=discard (     266 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8b38f85] mixup_alpha 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.05 -> loss=0.404186 auc=0.896951 status=discard (     268 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7199659] mixup_alpha 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.1 -> loss=0.409833 auc=0.894160 status=discard (     270 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 340bdcb] mixup_alpha 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.15 -> loss=0.406748 auc=0.895802 status=discard (     272 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2597feb] mixup_alpha 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.2 -> loss=0.407480 auc=0.896201 status=discard (     274 lines)
+Skip no-op: mixup_alpha 0.25
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 11d9038] mixup_alpha 0.3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.3 -> loss=0.407349 auc=0.896787 status=discard (     276 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3ce709d] batch_size 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 128 -> loss=0.410546 auc=0.895708 status=discard (     278 lines)
+Skip no-op: batch_size 192
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 256 -> loss=0.406382 auc=0.896177 status=discard (     280 lines)
+fatal: Unable to create '/Users/alexanderbusser/repository/autoresearch/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 384 -> loss=0.407235 auc=0.895614 status=discard (     282 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d0aca87] batch_size 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 512 -> loss=0.407779 auc=0.895239 status=discard (     284 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e342f4e] epochs 150
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 150 -> loss=0.407778 auc=0.895239 status=discard (     286 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d5b03b6] epochs 180
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 180 -> loss=0.407779 auc=0.895239 status=discard (     288 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1a4fe25] epochs 200
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 200 -> loss=0.407231 auc=0.895708 status=discard (     290 lines)
+Skip no-op: epochs 220
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e5674dd] epochs 250
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 250 -> loss=0.407779 auc=0.895239 status=discard (     292 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1e2a392] patience 20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 20 -> loss=0.407779 auc=0.895239 status=discard (     294 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 454b1d2] patience 25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 25 -> loss=0.407779 auc=0.895239 status=discard (     296 lines)
+Skip no-op: patience 30
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e59290f] patience 35
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 35 -> loss=0.407779 auc=0.895239 status=discard (     298 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 129c60d] patience 40
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 40 -> loss=0.407779 auc=0.895239 status=discard (     300 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f4fb3ea] label_smoothing 0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0 -> loss=0.406723 auc=0.896154 status=discard (     302 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d103490] label_smoothing 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.01 -> loss=0.407298 auc=0.895333 status=discard (     304 lines)
+Skip no-op: label_smoothing 0.02
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d62d9d9] label_smoothing 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.03 -> loss=0.407359 auc=0.895919 status=discard (     306 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 425ae08] label_smoothing 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.05 -> loss=0.409624 auc=0.894864 status=discard (     308 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 64cc7b5] warmup 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 5 -> loss=0.406693 auc=0.896107 status=discard (     310 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a14694e] warmup 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 6 -> loss=0.408725 auc=0.895356 status=discard (     312 lines)
+Skip no-op: warmup 8
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ef95334] warmup 10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 10 -> loss=0.408734 auc=0.894676 status=discard (     314 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2ad2364] warmup 12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 12 -> loss=0.409633 auc=0.894583 status=discard (     316 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main adf90db] eta_min 1e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-6 -> loss=0.407779 auc=0.895239 status=discard (     318 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d06b7a9] eta_min 5e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-6 -> loss=0.407779 auc=0.895239 status=discard (     320 lines)
+Skip no-op: eta_min 1e-5
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ce17835] eta_min 5e-5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-5 -> loss=0.407779 auc=0.895239 status=discard (     322 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e1ecc5c] eta_min 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     324 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7e7cb93] ema_decay 0.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.99 -> loss=0.405855 auc=0.897162 status=discard (     326 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6700491] ema_decay 0.992
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.992 -> loss=0.407161 auc=0.896060 status=discard (     328 lines)
+Skip no-op: ema_decay 0.995
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 87f1b87] ema_decay 0.998
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.998 -> loss=0.410684 auc=0.893879 status=discard (     330 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f15b73a] ema_decay 0.999
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.999 -> loss=0.411204 auc=0.892847 status=discard (     332 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main da2bfca] grad_clip 0.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 0.5 -> loss=0.406286 auc=0.896365 status=discard (     334 lines)
+Skip no-op: grad_clip 1.0
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3f7267f] grad_clip 1.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 1.5 -> loss=0.409104 auc=0.895310 status=discard (     336 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b47be04] grad_clip 2.0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 2.0 -> loss=0.408133 auc=0.896388 status=discard (     338 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c83d3ef] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1e-3 -> loss=0.421778 auc=0.889728 status=discard (     340 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c574d67] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.2e-3 -> loss=0.416186 auc=0.894911 status=discard (     342 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ad0b5a8] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.5e-3 -> loss=0.412713 auc=0.895568 status=discard (     344 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d7a6649] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.8e-3 -> loss=0.407779 auc=0.895239 status=discard (     346 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b415adb] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2e-3 -> loss=0.407779 auc=0.895239 status=discard (     348 lines)
+Skip no-op: lr 2.2e-3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at 51e89897501f58b431fbf2cd1d20520f39e9e13d but expected c8cef0d2008b4bae02b18b26aac61af994f3a167
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: lr 2.5e-3 -> loss=0.407779 auc=0.895239 status=discard (     351 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6647fbb] lr 2.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: lr 2.8e-3 -> loss=0.407181 auc=0.896576 status=discard (     352 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4e22cf2] lr 3e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3e-3 -> loss=0.405607 auc=0.897045 status=discard (     353 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 545d3c3] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3.5e-3 -> loss=0.404272 auc=0.896975 status=discard (     355 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7ed9a66] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     357 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d8389fa] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1.5e-4 -> loss=0.407778 auc=0.895239 status=discard (     359 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 91c50c1] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 2e-4 -> loss=0.407779 auc=0.895239 status=discard (     361 lines)
+Skip no-op: wd 2.5e-4
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 310a6f7] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 3e-4 -> loss=0.407780 auc=0.895216 status=discard (     363 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1411d38] wd 4e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 4e-4 -> loss=0.407780 auc=0.895216 status=discard (     365 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5e8832a] wd 5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 5e-4 -> loss=0.407780 auc=0.895216 status=discard (     367 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 216b633] hidden_dim 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 128 -> loss=0.415912 auc=0.893316 status=discard (     369 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b362377] hidden_dim 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 192 -> loss=0.421358 auc=0.890643 status=discard (     373 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main dd31a14] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 256 -> loss=0.413269 auc=0.893902 status=discard (     376 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d2b9fc3] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 288 -> loss=0.410804 auc=0.895708 status=discard (     379 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a724696] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 320 -> loss=0.411784 auc=0.893269 status=discard (     382 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4b3b108] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 352 -> loss=0.405097 auc=0.900023 status=discard (     385 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cc3e9a5] hidden_dim 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 384 -> loss=0.407770 auc=0.898569 status=discard (     388 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9d9da39] hidden_dim 448
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 448 -> loss=0.404708 auc=0.896623 status=discard (     391 lines)
+Skip no-op: hidden_dim 512
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 80072f5] depth 2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 2 -> loss=0.413241 auc=0.894090 status=discard (     394 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e500916] depth 3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 3 -> loss=0.425309 auc=0.889189 status=discard (     397 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 12ed6d4] depth 4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 4 -> loss=0.410638 auc=0.895497 status=discard (     398 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: depth 5 -> loss=0.407657 auc=0.896295 status=discard (     402 lines)
+Skip no-op: depth 6
+Skip no-op: dropout 0.05
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at c8cef0d2008b4bae02b18b26aac61af994f3a167 but expected d72dec94fe01065d52ad0b59fe6fd468c44f54b1
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: dropout 0.1 -> loss=0.407804 auc=0.895544 status=discard (     405 lines)
+Skip no-op: dropout 0.12
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at 05e384afa526a791b5a3139d7862439d6d8e6384 but expected c8cef0d2008b4bae02b18b26aac61af994f3a167
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.15 -> loss=0.408277 auc=0.894958 status=discard (     407 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 23b6ef8] dropout 0.18
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.18 -> loss=0.407831 auc=0.895169 status=discard (     410 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7e127ca] dropout 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.2 -> loss=0.407779 auc=0.895239 status=discard (     413 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f0f1d6e] dropout 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.25 -> loss=0.407518 auc=0.895122 status=discard (     416 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 82c8ae6] input_noise 0.005
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.005 -> loss=0.407568 auc=0.895192 status=discard (     419 lines)
+Skip no-op: input_noise 0.01
+fatal: Unable to create '/Users/alexanderbusser/repository/autoresearch/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.015 -> loss=0.407779 auc=0.895239 status=discard (     423 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 952d981] input_noise 0.02
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.02 -> loss=0.407985 auc=0.895521 status=discard (     425 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7ab85e3] input_noise 0.03
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.03 -> loss=0.406822 auc=0.896130 status=discard (     428 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bf641e5] feature_dropout 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.01 -> loss=0.407779 auc=0.895239 status=discard (     430 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 61923a0] feature_dropout 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.02 -> loss=0.408798 auc=0.894512 status=discard (     432 lines)
+Skip no-op: feature_dropout 0.03
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 75649b8] feature_dropout 0.04
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.04 -> loss=0.410749 auc=0.894841 status=discard (     435 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8903eee] feature_dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.05 -> loss=0.410560 auc=0.895216 status=discard (     438 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d13996d] feature_dropout 0.06
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.06 -> loss=0.409433 auc=0.895966 status=discard (     441 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1126a8b] mixup_alpha 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.05 -> loss=0.404186 auc=0.896951 status=discard (     444 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b86a3db] mixup_alpha 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.1 -> loss=0.409833 auc=0.894160 status=discard (     447 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 21039da] mixup_alpha 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.15 -> loss=0.406748 auc=0.895802 status=discard (     450 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a8ded29] mixup_alpha 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.2 -> loss=0.407480 auc=0.896201 status=discard (     453 lines)
+Skip no-op: mixup_alpha 0.25
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8dedea0] mixup_alpha 0.3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.3 -> loss=0.407349 auc=0.896787 status=discard (     456 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ff45e6b] batch_size 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 128 -> loss=0.410546 auc=0.895708 status=discard (     460 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main da73cd1] batch_size 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 192 -> loss=0.407380 auc=0.896599 status=discard (     463 lines)
+Skip no-op: batch_size 256
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0deb1c5] batch_size 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 384 -> loss=0.407513 auc=0.896365 status=discard (     466 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0f6037d] batch_size 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 512 -> loss=0.401465 auc=0.898007 status=discard (     469 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 59f82f6] epochs 150
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 150 -> loss=0.407778 auc=0.895239 status=discard (     472 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2486690] epochs 180
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 180 -> loss=0.407779 auc=0.895239 status=discard (     475 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 19400b3] epochs 200
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 200 -> loss=0.407779 auc=0.895239 status=discard (     478 lines)
+Skip no-op: epochs 220
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5d4d35b] epochs 250
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 250 -> loss=0.407779 auc=0.895239 status=discard (     481 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ae01beb] patience 20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 20 -> loss=0.407779 auc=0.895239 status=discard (     484 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 80bdef1] patience 25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 25 -> loss=0.407779 auc=0.895239 status=discard (     486 lines)
+Skip no-op: patience 30
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1658826] patience 35
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 35 -> loss=0.408040 auc=0.895239 status=discard (     489 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 11ed3b0] patience 40
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 40 -> loss=0.407779 auc=0.895239 status=discard (     493 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d0d5f3f] label_smoothing 0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0 -> loss=0.406723 auc=0.896154 status=discard (     496 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2eda5d7] label_smoothing 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.01 -> loss=0.407298 auc=0.895333 status=discard (     499 lines)
+Skip no-op: label_smoothing 0.02
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8c7f75b] label_smoothing 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.03 -> loss=0.407359 auc=0.895919 status=discard (     502 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a374b8a] label_smoothing 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.05 -> loss=0.409624 auc=0.894864 status=discard (     505 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9d6f36f] warmup 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 5 -> loss=0.406693 auc=0.896107 status=discard (     508 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 91e9546] warmup 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 6 -> loss=0.408725 auc=0.895356 status=discard (     511 lines)
+Skip no-op: warmup 8
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 39ac8fd] warmup 10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 10 -> loss=0.408734 auc=0.894676 status=discard (     514 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7441f6c] warmup 12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 12 -> loss=0.409633 auc=0.894583 status=discard (     517 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 367cfc6] eta_min 1e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-6 -> loss=0.407779 auc=0.895239 status=discard (     520 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2734760] eta_min 5e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-6 -> loss=0.407779 auc=0.895239 status=discard (     523 lines)
+Skip no-op: eta_min 1e-5
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2973ea1] eta_min 5e-5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-5 -> loss=0.407779 auc=0.895239 status=discard (     526 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3187c3b] eta_min 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     528 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e135e02] ema_decay 0.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.99 -> loss=0.405855 auc=0.897162 status=discard (     530 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a7ca04d] ema_decay 0.992
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.992 -> loss=0.407161 auc=0.896060 status=discard (     532 lines)
+Skip no-op: ema_decay 0.995
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d0b3d33] ema_decay 0.998
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at d3aa611 run     533 hd516
+Experiment: ema_decay 0.998 -> loss=0.410684 auc=0.893879 status=discard (     535 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e5b2698] ema_decay 0.999
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.999 -> loss=0.411204 auc=0.892847 status=discard (     538 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 93d715c] grad_clip 0.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 0.5 -> loss=0.406286 auc=0.896365 status=discard (     541 lines)
+Skip no-op: grad_clip 1.0
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0fa6c96] grad_clip 1.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 1.5 -> loss=0.409104 auc=0.895310 status=discard (     544 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0e01a31] grad_clip 2.0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 2.0 -> loss=0.408133 auc=0.896388 status=discard (     547 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f95a5b9] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1e-3 -> loss=0.421778 auc=0.889728 status=discard (     550 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 36fde0e] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.2e-3 -> loss=0.416186 auc=0.894911 status=discard (     553 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 75ef45a] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.5e-3 -> loss=0.412713 auc=0.895568 status=discard (     556 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1e1581b] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.8e-3 -> loss=0.410689 auc=0.895169 status=discard (     559 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e4be293] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2e-3 -> loss=0.408561 auc=0.896037 status=discard (     562 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 5719aa9] lr 2.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.2e-3 -> loss=0.411315 auc=0.897115 status=discard (     565 lines)
+Skip no-op: lr 2.5e-3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b1d5975] lr 2.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.8e-3 -> loss=0.407181 auc=0.896576 status=discard (     568 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b74b6da] lr 3e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3e-3 -> loss=0.405607 auc=0.897045 status=discard (     571 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 80fc61f] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3.5e-3 -> loss=0.404272 auc=0.896975 status=discard (     574 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d6450f3] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     577 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a805273] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1.5e-4 -> loss=0.407778 auc=0.895239 status=discard (     580 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a5bb057] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 2e-4 -> loss=0.407779 auc=0.895239 status=discard (     583 lines)
+Skip no-op: wd 2.5e-4
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8f54969] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 3e-4 -> loss=0.407780 auc=0.895216 status=discard (     586 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0d29c95] wd 4e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 4e-4 -> loss=0.407780 auc=0.895216 status=discard (     589 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b21168a] wd 5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 5e-4 -> loss=0.407780 auc=0.895216 status=discard (     592 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eb209a3] hidden_dim 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 128 -> loss=0.415912 auc=0.893316 status=discard (     595 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8312aa9] hidden_dim 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 192 -> loss=0.421358 auc=0.890643 status=discard (     598 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 31600d5] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 256 -> loss=0.413269 auc=0.893902 status=discard (     601 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 19e098f] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 288 -> loss=0.410804 auc=0.895708 status=discard (     604 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a7de9bb] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 320 -> loss=0.411784 auc=0.893269 status=discard (     608 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 26fbb6e] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 352 -> loss=0.405097 auc=0.900023 status=discard (     611 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 579a7b2] hidden_dim 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 384 -> loss=0.407770 auc=0.898569 status=discard (     614 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6af4c86] hidden_dim 448
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 448 -> loss=0.404708 auc=0.896623 status=discard (     617 lines)
+Skip no-op: hidden_dim 512
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 14a3e1b] depth 2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 2 -> loss=0.413241 auc=0.894090 status=discard (     619 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6350a42] depth 3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 3 -> loss=0.425309 auc=0.889189 status=discard (     622 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main dd7466d] depth 4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: depth 4 -> loss=0.410638 auc=0.895497 status=discard (     625 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at c8cef0d2008b4bae02b18b26aac61af994f3a167 but expected b39d657a402affce2f1e0bc79c4c33f036119e8f
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 5 -> loss=0.407218 auc=0.895896 status=discard (     627 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7f40d07] depth 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 6 -> loss=0.410485 auc=0.895333 status=discard (     630 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0b4b3c5] dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.05 -> loss=0.408385 auc=0.895450 status=discard (     633 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4b15913] dropout 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.1 -> loss=0.409353 auc=0.895169 status=discard (     636 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9a8f4df] dropout 0.12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.12 -> loss=0.411779 auc=0.893926 status=discard (     639 lines)
+Skip no-op: dropout 0.15
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fe43969] dropout 0.18
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.18 -> loss=0.408543 auc=0.895544 status=discard (     642 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d1d1f17] dropout 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.2 -> loss=0.402279 auc=0.898077 status=discard (     645 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main db1e99e] dropout 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.25 -> loss=0.404382 auc=0.896599 status=discard (     648 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6c250b9] input_noise 0.005
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.005 -> loss=0.407278 auc=0.895732 status=discard (     651 lines)
+Skip no-op: input_noise 0.01
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b5735b7] input_noise 0.015
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.015 -> loss=0.407967 auc=0.895380 status=discard (     654 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f5dc936] input_noise 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.02 -> loss=0.407774 auc=0.895239 status=discard (     657 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7c5f10b] input_noise 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.03 -> loss=0.408038 auc=0.895990 status=discard (     660 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fe716b5] feature_dropout 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.01 -> loss=0.405320 auc=0.896717 status=discard (     663 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a0dd364] feature_dropout 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.02 -> loss=0.408798 auc=0.894512 status=discard (     666 lines)
+Skip no-op: feature_dropout 0.03
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ef045b1] feature_dropout 0.04
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.04 -> loss=0.410749 auc=0.894841 status=discard (     669 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6b8bb18] feature_dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.05 -> loss=0.410560 auc=0.895216 status=discard (     672 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f28c3cc] feature_dropout 0.06
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.06 -> loss=0.409433 auc=0.895966 status=discard (     675 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9492ea2] mixup_alpha 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.05 -> loss=0.404186 auc=0.896951 status=discard (     678 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fe42733] mixup_alpha 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.1 -> loss=0.409833 auc=0.894160 status=discard (     681 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 364d512] mixup_alpha 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.15 -> loss=0.406748 auc=0.895802 status=discard (     684 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9c9b5f2] mixup_alpha 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.2 -> loss=0.407480 auc=0.896201 status=discard (     687 lines)
+Skip no-op: mixup_alpha 0.25
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2949579] mixup_alpha 0.3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.3 -> loss=0.407349 auc=0.896787 status=discard (     690 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 32fb08c] batch_size 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 128 -> loss=0.410546 auc=0.895708 status=discard (     693 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 87be82f] batch_size 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 192 -> loss=0.407380 auc=0.896599 status=discard (     697 lines)
+Skip no-op: batch_size 256
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 318618d] batch_size 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 384 -> loss=0.409985 auc=0.892730 status=discard (     700 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1cfbebe] batch_size 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 512 -> loss=0.401465 auc=0.898007 status=discard (     702 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c8146f2] epochs 150
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 150 -> loss=0.407778 auc=0.895239 status=discard (     705 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fbad327] epochs 180
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 180 -> loss=0.407779 auc=0.895239 status=discard (     708 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 09f6208] epochs 200
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 200 -> loss=0.407779 auc=0.895239 status=discard (     711 lines)
+Skip no-op: epochs 220
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6fb8bc3] epochs 250
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 250 -> loss=0.407779 auc=0.895239 status=discard (     714 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1a57de1] patience 20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 20 -> loss=0.407779 auc=0.895239 status=discard (     717 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 83bd252] patience 25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 25 -> loss=0.407779 auc=0.895239 status=discard (     720 lines)
+Skip no-op: patience 30
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c964c4b] patience 35
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 35 -> loss=0.407779 auc=0.895239 status=discard (     723 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 06a284e] patience 40
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 40 -> loss=0.407779 auc=0.895239 status=discard (     726 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d0ba0e0] label_smoothing 0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0 -> loss=0.406723 auc=0.896154 status=discard (     729 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3f56fe5] label_smoothing 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.01 -> loss=0.407298 auc=0.895333 status=discard (     732 lines)
+Skip no-op: label_smoothing 0.02
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c36e0eb] label_smoothing 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.03 -> loss=0.407359 auc=0.895919 status=discard (     735 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 39536d0] label_smoothing 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: label_smoothing 0.05 -> loss=0.409624 auc=0.894864 status=discard (     738 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main c2e7404] warmup 5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 5 -> loss=0.406693 auc=0.896107 status=discard (     741 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eb0ee0f] warmup 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 6 -> loss=0.408725 auc=0.895356 status=discard (     744 lines)
+Skip no-op: warmup 8
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 070a18f] warmup 10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 10 -> loss=0.408734 auc=0.894676 status=discard (     747 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main da5ebd2] warmup 12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: warmup 12 -> loss=0.409633 auc=0.894583 status=discard (     750 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 85733cd] eta_min 1e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-6 -> loss=0.407779 auc=0.895239 status=discard (     753 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ecede32] eta_min 5e-6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-6 -> loss=0.407779 auc=0.895239 status=discard (     756 lines)
+Skip no-op: eta_min 1e-5
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3cba6fe] eta_min 5e-5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 5e-5 -> loss=0.407779 auc=0.895239 status=discard (     759 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1de0259] eta_min 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: eta_min 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     762 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bb66e8b] ema_decay 0.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.99 -> loss=0.405855 auc=0.897162 status=discard (     765 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 23f4857] ema_decay 0.992
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.992 -> loss=0.407161 auc=0.896060 status=discard (     768 lines)
+Skip no-op: ema_decay 0.995
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main eb537bc] ema_decay 0.998
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.998 -> loss=0.410684 auc=0.893879 status=discard (     771 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1e8baa3] ema_decay 0.999
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: ema_decay 0.999 -> loss=0.411204 auc=0.892847 status=discard (     774 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3387852] grad_clip 0.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 0.5 -> loss=0.406286 auc=0.896365 status=discard (     777 lines)
+Skip no-op: grad_clip 1.0
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e98e64c] grad_clip 1.5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 1.5 -> loss=0.409104 auc=0.895310 status=discard (     780 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 606caee] grad_clip 2.0
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: grad_clip 2.0 -> loss=0.408133 auc=0.896388 status=discard (     783 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0ce07d5] lr 1e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1e-3 -> loss=0.421778 auc=0.889728 status=discard (     787 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7a40e15] lr 1.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.2e-3 -> loss=0.416186 auc=0.894911 status=discard (     791 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f743cc0] lr 1.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.5e-3 -> loss=0.412713 auc=0.895568 status=discard (     795 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main ac070dc] lr 1.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 1.8e-3 -> loss=0.410689 auc=0.895169 status=discard (     799 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 51fd432] lr 2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2e-3 -> loss=0.408561 auc=0.896037 status=discard (     803 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e02be39] lr 2.2e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.2e-3 -> loss=0.411315 auc=0.897115 status=discard (     807 lines)
+Skip no-op: lr 2.5e-3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 94c45c3] lr 2.8e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 2.8e-3 -> loss=0.407181 auc=0.896576 status=discard (     811 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 87b1a66] lr 3e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3e-3 -> loss=0.405607 auc=0.897045 status=discard (     815 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 306fa92] lr 3.5e-3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: lr 3.5e-3 -> loss=0.404272 auc=0.896975 status=discard (     819 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 0c07521] wd 1e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1e-4 -> loss=0.407779 auc=0.895239 status=discard (     823 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bd91c82] wd 1.5e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 1.5e-4 -> loss=0.407778 auc=0.895239 status=discard (     827 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 67f6a6d] wd 2e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 2e-4 -> loss=0.407779 auc=0.895239 status=discard (     831 lines)
+Skip no-op: wd 2.5e-4
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3cfe978] wd 3e-4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: wd 3e-4 -> loss=0.407780 auc=0.895216 status=discard (     835 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: wd 4e-4 -> loss=0.407805 auc=0.896060 status=discard (     840 lines)
+Skip no-op: wd 5e-4
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	loop.log
+	run_loop.sh
+
+nothing added to commit but untracked files present (use "git add" to track)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: hidden_dim 128 -> loss=0.415946 auc=0.893433 status=discard (     844 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at c8cef0d2008b4bae02b18b26aac61af994f3a167 but expected b39d657a402affce2f1e0bc79c4c33f036119e8f
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 192 -> loss=0.407596 auc=0.895450 status=discard (     847 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 4502193] hidden_dim 256
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 256 -> loss=0.407779 auc=0.895239 status=discard (     851 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a8f217e] hidden_dim 288
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 288 -> loss=0.410804 auc=0.895708 status=discard (     855 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 6b8b6e3] hidden_dim 320
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 320 -> loss=0.407974 auc=0.895310 status=discard (     859 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a3fbdbb] hidden_dim 352
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 352 -> loss=0.405097 auc=0.900023 status=discard (     864 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main d5420b3] hidden_dim 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: hidden_dim 384 -> loss=0.407770 auc=0.898569 status=discard (     868 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e238d2d] hidden_dim 448
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: hidden_dim 448 -> loss=0.404708 auc=0.896623 status=discard (     872 lines)
+Skip no-op: hidden_dim 512
+Skip no-op: depth 2
+Skip no-op: depth 3
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+fatal: cannot lock ref 'HEAD': is at c8cef0d2008b4bae02b18b26aac61af994f3a167 but expected 91bf907c600cd18b998fb64f47538a6f8c72eb1d
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 4 -> loss=0.407830 auc=0.894207 status=discard (     876 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main cefb94f] depth 5
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 5 -> loss=0.408012 auc=0.895755 status=discard (     880 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8da8fd6] depth 6
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: depth 6 -> loss=0.407779 auc=0.895239 status=discard (     884 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 8ab0382] dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.05 -> loss=0.408012 auc=0.895755 status=discard (     888 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 822c7a3] dropout 0.1
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.1 -> loss=0.407588 auc=0.895943 status=discard (     892 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 269715a] dropout 0.12
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.12 -> loss=0.411779 auc=0.893926 status=discard (     896 lines)
+Skip no-op: dropout 0.15
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2a79266] dropout 0.18
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.18 -> loss=0.408543 auc=0.895544 status=discard (     900 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b7c1511] dropout 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.2 -> loss=0.402279 auc=0.898077 status=discard (     904 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 257942f] dropout 0.25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: dropout 0.25 -> loss=0.404382 auc=0.896599 status=discard (     908 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main a7af967] input_noise 0.005
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.005 -> loss=0.407278 auc=0.895732 status=discard (     912 lines)
+Skip no-op: input_noise 0.01
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 93f8122] input_noise 0.015
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.015 -> loss=0.407967 auc=0.895380 status=discard (     916 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f8ffd01] input_noise 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.02 -> loss=0.407774 auc=0.895239 status=discard (     920 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 7a22fb5] input_noise 0.03
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: input_noise 0.03 -> loss=0.408038 auc=0.895990 status=discard (     924 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main bb77788] feature_dropout 0.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.01 -> loss=0.405320 auc=0.896717 status=discard (     928 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 58384dd] feature_dropout 0.02
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.02 -> loss=0.408798 auc=0.894512 status=discard (     932 lines)
+Skip no-op: feature_dropout 0.03
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fa03911] feature_dropout 0.04
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.04 -> loss=0.410749 auc=0.894841 status=discard (     936 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 3e2b468] feature_dropout 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.05 -> loss=0.410560 auc=0.895216 status=discard (     940 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 9f11a26] feature_dropout 0.06
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: feature_dropout 0.06 -> loss=0.409433 auc=0.895966 status=discard (     944 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 38b2e4b] mixup_alpha 0.05
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.05 -> loss=0.404186 auc=0.896951 status=discard (     948 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b5aa34d] mixup_alpha 0.1
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.1 -> loss=0.409833 auc=0.894160 status=discard (     952 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e58c4c7] mixup_alpha 0.15
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.15 -> loss=0.406748 auc=0.895802 status=discard (     956 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 2de7001] mixup_alpha 0.2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.2 -> loss=0.407480 auc=0.896201 status=discard (     960 lines)
+Skip no-op: mixup_alpha 0.25
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 1fb3075] mixup_alpha 0.3
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: mixup_alpha 0.3 -> loss=0.407349 auc=0.896787 status=discard (     964 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main b2e4b21] batch_size 128
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 128 -> loss=0.410546 auc=0.895708 status=discard (     970 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 37bc4cb] batch_size 192
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 192 -> loss=0.407380 auc=0.896599 status=discard (     974 lines)
+Skip no-op: batch_size 256
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 864a673] batch_size 384
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: batch_size 384 -> loss=0.409985 auc=0.892730 status=discard (     978 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main f9a7c30] batch_size 512
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at b39d657 mixup_alpha 0.25
+Experiment: batch_size 512 -> loss=0.401465 auc=0.898007 status=discard (     982 lines)
+Skip no-op: epochs 150
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main e8d1469] epochs 180
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 180 -> loss=0.407779 auc=0.895239 status=discard (     984 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 56ce320] epochs 200
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 200 -> loss=0.408441 auc=0.894817 status=discard (     988 lines)
+Skip no-op: epochs 220
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 11ca75e] epochs 250
+HEAD is now at c8cef0d epochs 220
+Experiment: epochs 250 -> loss=0.408295 auc=0.896224 status=discard (     992 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main fd65904] patience 20
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 20 -> loss=0.406998 auc=0.895685 status=discard (     996 lines)
+`.pre-commit-config.yaml` config file not found. Skipping `pre-commit`.
+[main 89fbf0d] patience 25
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+HEAD is now at c8cef0d epochs 220
+Experiment: patience 25 -> loss=0.407779 auc=0.895239 status=discard (    1000 lines)
