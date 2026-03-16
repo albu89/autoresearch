@@ -32,7 +32,7 @@ DROPOUT = 0.2
 # Training
 EPOCHS = 500
 BATCH_SIZE = 64
-LR = 1e-3
+LR = 5e-4
 PATIENCE = 30
 
 
