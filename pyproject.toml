@@ -5,6 +5,7 @@ description = "Autonomous pretraining research swarm"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "hypertab>=0.6.2",
     "kernels>=0.11.7",
     "matplotlib>=3.10.8",
     "numpy>=2.2.6",
@@ -12,8 +13,11 @@ dependencies = [
     "pyarrow>=21.0.0",
     "requests>=2.32.0",
     "rustbpe>=0.1.0",
+    "scikit-learn>=1.0",
+    "tabpfn>=0.2.0",
     "tiktoken>=0.11.0",
     "torch>=2.0",
+    "xgboost>=2.0",
 ]
 
 # torch from PyPI (CPU/MPS on macOS)
