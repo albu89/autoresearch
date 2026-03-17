@@ -27,7 +27,7 @@ DEVICE = "mps" if torch.backends.mps.is_available() else ("cuda" if torch.cuda.i
 
 # Architecture
 HIDDEN = [320, 160, 80, 40]
-DROPOUT = 0.235
+DROPOUT = 0.23
 
 # Training
 EPOCHS = 500
