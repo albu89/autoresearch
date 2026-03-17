@@ -27,6 +27,8 @@ def roc_auc_score(y_true: np.ndarray, y_score: np.ndarray) -> float:
 CACHE_DIR = os.path.join(os.path.expanduser("~"), ".cache", "autoresearch")
 TABULAR_CACHE_DIR = os.path.join(CACHE_DIR, "tabular")
 BLOCKED_FEATURES = {"population_risk", "source"}
+TRAIN_FRAC = 0.8
+SEED = 42
 
 
 @dataclass
@@ -101,22 +103,23 @@ def _load_and_preprocess(path: str, train_frac: float, seed: int, log1p: bool) -
         feature_names=x_df.columns.tolist(),
     )
 
-
-def load_tabular_data(path: str, train_frac: float, seed: int, log1p: bool) -> TabularData:
+## never modify this function!!!!!!!!!!
+def load_tabular_data(path: str, log1p: bool) -> TabularData:
     """
     Load tabular dataset. Uses cache at ~/.cache/autoresearch/tabular/ if available.
     Cache key: basename of path + train_frac + seed + log1p.
+    train_frac and seed are fixed (TRAIN_FRAC, SEED) to prevent agents from varying the split.
     """
     os.makedirs(TABULAR_CACHE_DIR, exist_ok=True)
     base = os.path.splitext(os.path.basename(path))[0]
-    cache_name = f"{base}_tf{train_frac}_s{seed}_log1p{log1p}.pt"
+    cache_name = f"{base}_tf{TRAIN_FRAC}_s{SEED}_log1p{log1p}.pt"
     cache_path = os.path.join(TABULAR_CACHE_DIR, cache_name)
 
     if os.path.exists(cache_path):
         state = torch.load(cache_path, map_location="cpu", weights_only=False)
         return TabularData(**state)
 
-    data = _load_and_preprocess(path, train_frac=train_frac, seed=seed, log1p=log1p)
+    data = _load_and_preprocess(path, train_frac=TRAIN_FRAC, seed=SEED, log1p=log1p)
     torch.save(
         {
             "x_train": data.x_train,
