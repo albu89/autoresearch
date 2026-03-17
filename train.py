@@ -65,10 +65,12 @@ class ResidualMLP(nn.Module):
             layers.append(ResidualBlock(h, dropout))
             prev = h
         self.layers = nn.Sequential(*layers)
+        self.norm = nn.LayerNorm(prev)
         self.out = nn.Linear(prev, 1)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         h = self.layers(x)
+        h = self.norm(h)
         return self.out(h).squeeze(-1)
 
 
