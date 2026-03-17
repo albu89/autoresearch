@@ -26,7 +26,7 @@ SEED = 42
 DEVICE = "mps" if torch.backends.mps.is_available() else ("cuda" if torch.cuda.is_available() else "cpu")
 
 # Architecture
-HIDDEN = [256, 128, 64, 32]
+HIDDEN = [320, 160, 80, 40]
 DROPOUT = 0.238
 
 # Training
